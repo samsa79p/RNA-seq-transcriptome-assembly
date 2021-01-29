@@ -1,2 +1,2 @@
-# RNA-seq-transcriptome-assembly
-Transcriptome assembly using reference genome
+# RNA-seq-transcriptome-analysis
+Transcriptome assembly using reference genome and DE using edgeR
